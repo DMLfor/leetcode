@@ -2,7 +2,7 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int one = 0, two = 0, zero = 0;
+        int one = 0, two = 0, zero = 0;  //分别为0, 2, 1的计数
         for(int i = 0; i<nums.size(); i++)
         {
             if(nums[i] == 0)
