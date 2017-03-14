@@ -1,3 +1,4 @@
+//可以先画图标号，观察可以得到规律 
 class Solution
 {
 public:
