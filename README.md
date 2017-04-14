@@ -13,3 +13,4 @@
 |[第16题 to 第20题](http://www.littleblank.net/archives/1052/)| 模拟,栈 |
 |[第21题 to 第25题](http://www.littleblank.net/archives/1053/)|dfs,链表|
 |[第26题 to 第30题](http://www.littleblank.net/archives/1055/)|数组,字符串|
+|[第31题 to 第35题](http://www.littleblank.net/archives/1056/)|二分|
